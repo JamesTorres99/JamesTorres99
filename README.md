@@ -51,11 +51,11 @@ Here are some ideas to get you started:
         <span><b>Java</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="30%" align="center">
         <span><b>React</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="30%" align="center">
         <span><b>Kotlin</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/kotlin.svg">
       </td>
