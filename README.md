@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi, I'm Alexander Torres <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
 
-- I am a systems engineering student at the [Colombian School of Engineering Julio Garavito](https://image.pngaaa.com/285/863285-middle.png)
+- I am a systems engineer graduated from the [Colombian School of Engineering Julio Garavito](https://www.escuelaing.edu.co/es/)
 - Lover of software development and also of data science
 - I like to travel and to know new cultures.
 - One of my hobbies is playing soccer :soccer:
